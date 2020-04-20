@@ -1,0 +1,20 @@
+{
+  "name": "crud_hotel-",
+  "version": "1.0.0",
+  "description": "REST API using Node.js. Implement Create, Read, Update and Delete routes for managing hotel information. Database: MongoDB or MySQL Application Framework: Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovepreet-013/crud_hotel-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovepreet-013/crud_hotel-/issues"
+  },
+  "homepage": "https://github.com/lovepreet-013/crud_hotel-#readme"
+}
