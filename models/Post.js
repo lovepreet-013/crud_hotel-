@@ -2,16 +2,13 @@ const mongoose = require('mongoose');
 
 const PostSchema = mongoose.Schema({
   firstName: {
-    type: string,
-    required: true
+    type: string
   },
   lastName: {
-    type: string,
-    required: true
+    type: string
   },
   email: {
-    type: string,
-    required: true
+    type: string
   },
   date: {
     type: Date,
