@@ -3,7 +3,7 @@ const express = require('express');
 const router = express.Router();
 
 
-app.get('/posts', (req, res) => {
+router.get('/posts', (req, res) => {
   res.send("WE are at posts")
 })
 
